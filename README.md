@@ -3,7 +3,7 @@
 This project demonstrates a simple data engineering pipeline to collect, store, clean, and visualize gold price data.
 
 ## Features
-- Fetch gold price data from public APIs
+- Fetch gold price data from public APIs  ( CSV from Investing.com )
 - Store and clean the data using Python
 - Visualize price trends using Jupyter Notebook
 
